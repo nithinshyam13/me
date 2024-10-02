@@ -1,7 +1,5 @@
 Skills/tools/technologies/languages I'm familiar with
 
-# Pentesting Tools
-
 ### Software Programming Languages
 - Python
 - C
@@ -9,6 +7,7 @@ Skills/tools/technologies/languages I'm familiar with
 - Rust
 - C#
 - Java
+- bash
 
 ### Build
 - Make
