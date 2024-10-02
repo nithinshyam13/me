@@ -91,7 +91,6 @@ Skills/tools/technologies/languages I'm familiar with
 - APKTool
 - JADX
 - ADB
-- 
 
 ### Misc
 - Temporal logic
