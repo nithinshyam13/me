@@ -87,5 +87,11 @@ Skills/tools/technologies/languages I'm familiar with
 ### Version Control
 - Git
 
+### Mobile
+- APKTool
+- JADX
+- ADB
+- 
+
 ### Misc
 - Temporal logic
