@@ -30,6 +30,7 @@ Skills/tools/technologies/languages I'm familiar with
 - Cryptanalysis on implementation (software and hardware)
 - Reverse engineering
 - Penetration testing
+- Static Analysis
 - Tools listed at: [pentesting.md](https://github.com/nithinshyam13/me/blob/main/pentesting.md)
 
 ### RF & Wireless
